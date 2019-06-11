@@ -16,7 +16,7 @@ remaining = 9
 
 
 #This is what you want to eventually print out. Change this to what you want to say
-target = "STFU KELLEN"*90
+target = "hjko9uhnmlpo9iujm,lo"*90
 alphabet = [(x + 65) for x in range(26)]
 for i in range(26):
     alphabet.append(i+97)
